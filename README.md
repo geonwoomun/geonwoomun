@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/mysql-v5.7.32-blue?logo=mysql"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geonwoomun&langs_count=5)](https://github.com/geonwoomun/github-readme-stats)
+
 [![geonwoomun's github stats](https://github-readme-stats.vercel.app/api?username=geonwoomun&show_icons=true&theme=cobalt)](https://github.com/geonwoomun/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geonwoomun&langs_count=5)](https://github.com/geonwoomun/github-readme-stats)
